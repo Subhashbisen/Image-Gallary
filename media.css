@@ -1,0 +1,26 @@
+@media screen and (max-width: 769px) {
+    .card {
+        width: 48%;
+    }
+}
+@media screen and (max-width: 426px) {
+    .container h1 {
+        margin: 20px 30px;
+    }
+
+    .card {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 321px) {
+    .container h1 {
+        margin: 20px 0px;
+    }
+}
+
+@media screen and (max-width: 266px) {
+    .container h1 {
+        font-size: 2rem;
+    }
+}
